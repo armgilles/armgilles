@@ -4,11 +4,7 @@
 - 🔭 I am a Data Scientist consultant  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I am living in Bordeaux
 - 👯 I am always looking to fun projects
-- ⚡ Fun fact: I like data    <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="30"> 
-  
-
-
-<br />
+- ⚡ Fun fact: I like data  <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="30"> 
 
 ### Connect with me:
 
@@ -17,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -35,6 +30,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://camo.githubusercontent.com/fad01f2c15a7fc0326d7e9cc816f46757fc86ed8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6e64612d6465762f636f6e64615f6c6f676f2e737667"></code>
 
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=armgilles&count_private=true&show_icons=true&theme=hartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
