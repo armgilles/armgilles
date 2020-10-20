@@ -1,10 +1,14 @@
 ### Hi there, I'm Armand 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-
-- 🔭 I am a Data Scientist consultant
+- 🔭 I am a Data Scientist consultant  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I am living in Bordeaux
 - 👯 I am always looking to fun projects
-- ⚡ Fun fact: I like data
+- ⚡ Fun fact: I like data    <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="30"> 
+  
+
+
+<br />
 
 ### Connect with me:
 
@@ -13,6 +17,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
+
 
 ### Languages and Tools:
 
