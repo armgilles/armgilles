@@ -42,6 +42,12 @@ Most of my activity on github is on private repository.
 
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#36](https://github.com/armgilles/vcub_keeper/issues/36) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+2. 🗣 Commented on [#35](https://github.com/armgilles/vcub_keeper/issues/35) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+3. ❗️ Opened issue [#59](https://github.com/garaud/jitenshea/issues/59) in [garaud/jitenshea](https://github.com/garaud/jitenshea)
+4. 🗣 Commented on [#27](https://github.com/armgilles/vcub_keeper/issues/27) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+5. ❗️ Opened issue [#37](https://github.com/armgilles/vcub_keeper/issues/37) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+<!--END_SECTION:activity-->
 
 
 [twitter]: https://twitter.com/arm_gilles
