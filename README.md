@@ -4,7 +4,7 @@
 - 🔭 I am a Data Scientist consultant  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I am living in Bordeaux
 - 👯 I am always looking to fun projects
-- ⚡ Fun fact: I like data  <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="30"> 
+- ⚡ Fun fact: I like data  <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="20"> 
 
 ### Connect with me:
 
