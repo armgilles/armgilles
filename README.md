@@ -38,11 +38,11 @@ Most of my activity on github is on private repository.
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/armgilles/vcub_keeper/issues/40) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
-2. ❗️ Opened issue [#40](https://github.com/armgilles/vcub_keeper/issues/40) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
-3. ❗️ Closed issue [#39](https://github.com/armgilles/vcub_keeper/issues/39) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
-4. ❗️ Opened issue [#39](https://github.com/armgilles/vcub_keeper/issues/39) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
-5. 🗣 Commented on [#38](https://github.com/armgilles/vcub_keeper/issues/38) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+1. ❗️ Opened issue [#42](https://github.com/armgilles/vcub_keeper/issues/42) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+2. ❗️ Closed issue [#18](https://github.com/armgilles/vcub_keeper/issues/18) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+3. 🗣 Commented on [#18](https://github.com/armgilles/vcub_keeper/issues/18) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+4. ❗️ Closed issue [#1](https://github.com/armgilles/vcub_keeper/issues/1) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
+5. 🗣 Commented on [#1](https://github.com/armgilles/vcub_keeper/issues/1) in [armgilles/vcub_keeper](https://github.com/armgilles/vcub_keeper)
 <!--END_SECTION:activity-->
 
 
