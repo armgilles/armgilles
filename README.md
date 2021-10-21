@@ -47,5 +47,5 @@ Most of my activity on github is on private repository.
 
 
 [twitter]: https://twitter.com/arm_gilles
-[linkedin]: www.linkedin.com/in/armandgilles
+[linkedin]: https://www.linkedin.com/in/armandgilles/
 [medium]: https://medium.com/@arm_gilles
