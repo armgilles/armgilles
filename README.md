@@ -24,11 +24,11 @@
 <code><img height="25" src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-white-icon-rgb.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/microsoft/LightGBM/d517ba12f2e7862ac533908304dddbd770655d2b/docs/logo/LightGBM_logo_no_text.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="25" src="https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"></code>
 <code><img height="25" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4"></code>
 <code><img height="25" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4"></code>
 <code><img height="25" src="https://avatars3.githubusercontent.com/in/15368?s=60&v=4"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://camo.githubusercontent.com/fad01f2c15a7fc0326d7e9cc816f46757fc86ed8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6e64612d6465762f636f6e64615f6c6f676f2e737667"></code>
