@@ -21,7 +21,7 @@
 <code><img height="25" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"></code>
 <code><img height="25" src="https://vaex.io/img/logos/logo-grey.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-white-icon-rgb.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-blue-icon-rgb.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/microsoft/LightGBM/d517ba12f2e7862ac533908304dddbd770655d2b/docs/logo/LightGBM_logo_no_text.svg"></code>
