@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 - 🔭 I'm a Data Scientist consultant  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🌱 I'm living in Bordeaux
+- 🌱 I'm living in Niort.
 - 👯 I'm always looking to fun projects
 - ⚡ Fun fact: I like data  <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="20"> 
 
